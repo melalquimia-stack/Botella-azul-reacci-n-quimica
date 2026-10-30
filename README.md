@@ -1,2 +1,2 @@
-# Botella-azul-reacci-n-quimica
+# Botella-azul-r
 Simulador de experiencia botella azul
